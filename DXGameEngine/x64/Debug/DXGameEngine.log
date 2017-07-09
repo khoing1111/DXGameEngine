@@ -1,0 +1,25 @@
+﻿  PhysicManager.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\manager\physicmanager.h(6): fatal error C1083: Cannot open include file: 'hkUtilLib\core\Vector.h': No such file or directory
+  ObjectManager.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\core\object\objectcore.h(8): fatal error C1083: Cannot open include file: 'hkUtilLib\core\Vector.h': No such file or directory
+  ObjectFigure.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\core\object\objectcore.h(8): fatal error C1083: Cannot open include file: 'hkUtilLib\core\Vector.h': No such file or directory
+  FrameController.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\core\object\controll\framecontroller.h(3): fatal error C1083: Cannot open include file: 'hkUtilLib\Core.h': No such file or directory
+  BoundingBox.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\core\object\boundingbox\boundingbox.h(5): fatal error C1083: Cannot open include file: 'hkUtilLib/Core/Vector.h': No such file or directory
+  ObjectCore.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\core\object\objectcore.h(8): fatal error C1083: Cannot open include file: 'hkUtilLib\core\Vector.h': No such file or directory
+  MoveableObject.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\core\object\moveableobject.h(6): fatal error C1083: Cannot open include file: 'hkUtilLib\core\Vector.h': No such file or directory
+  UserInputControll.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\controll\userinputcontroll.h(5): fatal error C1083: Cannot open include file: 'DXEngine\manager\input\InputManager.h': No such file or directory
+  MainGame.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\maingame.h(5): fatal error C1083: Cannot open include file: 'DXEngine\manager\render\RenderManager.h': No such file or directory
+  AppResources.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\appresources.h(3): fatal error C1083: Cannot open include file: 'hkUtilLib\String.h': No such file or directory
+  AppCore.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\maingame.h(5): fatal error C1083: Cannot open include file: 'DXEngine\manager\render\RenderManager.h': No such file or directory
+  Main.cpp
+c:\users\data\projects\dxgameengine\dxgameengine\src\app\game\maingame.h(5): fatal error C1083: Cannot open include file: 'DXEngine\manager\render\RenderManager.h': No such file or directory
+  Generating Code...
