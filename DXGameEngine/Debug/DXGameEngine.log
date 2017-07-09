@@ -1,0 +1,25 @@
+﻿  Main.cpp
+  MainGame.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\maingame.cpp(44): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  GroundBox.cpp
+  MainCharacter.cpp
+  ObjectCore.cpp
+  MoveableObject.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\figure\objectfigure.h(72): warning C4091: 'typedef ': ignored on left of 'GameCore::StaticFigure::BitmapFigure::RENDER_BITMAP_BEHAVIOR' when no variable is declared
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\moveableobject.cpp(139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\moveableobject.cpp(144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ObjectFigure.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\figure\objectfigure.h(72): warning C4091: 'typedef ': ignored on left of 'GameCore::StaticFigure::BitmapFigure::RENDER_BITMAP_BEHAVIOR' when no variable is declared
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\figure\objectfigure.cpp(184): warning C4800: 'unsigned int': forcing value to bool 'true' or 'false' (performance warning)
+  FrameController.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\controll\framecontroller.cpp(17): warning C4244: '=': conversion from 'const unsigned int' to 'float', possible loss of data
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\controll\framecontroller.cpp(45): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  BoundingBox.cpp
+  PhysicManager.cpp
+d:\projects\visualstudioprojects\dxgameengine\dxgameengine\dxgameengine\src\app\game\core\object\figure\objectfigure.h(72): warning C4091: 'typedef ': ignored on left of 'GameCore::StaticFigure::BitmapFigure::RENDER_BITMAP_BEHAVIOR' when no variable is declared
+  ObjectManager.cpp
+  UserInputControll.cpp
+  AppResources.cpp
+  AppCore.cpp
+  Generating Code...
+  DXGameEngine.vcxproj -> D:\Projects\VisualStudioProjects\DXGameEngine\DXGameEngine\Debug\DXGameEngine.exe
