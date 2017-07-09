@@ -41,9 +41,13 @@ void GameCore::ObjectManager::Update(float timeStep)
         // Use iterator to traverse object list
         SPtr<ListIterator<ObjectBase>> iterator = m_objects[i].GetIterator();
         if (iterator->IsValid())
+        {
             do
+            {
                 iterator->Get()->Update(timeStep);
+            }
             while (iterator->Next());
+        }
     }
 }
 
@@ -54,9 +58,13 @@ void GameCore::ObjectManager::Render(RenderManager::D2DManager& renderManager)
         // Use iterator to traverse object list
         SPtr<ListIterator<ObjectBase>> iterator = m_objects[i].GetIterator();
         if (iterator->IsValid())
+        {
             do
+            {
                 iterator->Get()->Render(renderManager);
-        while (iterator->Next());
+            }
+            while (iterator->Next());
+        }
     }
 }
 
